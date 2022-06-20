@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "558876355654",
+    "firebase_url": "https://vocabularyforkid-default-rtdb.firebaseio.com",
+    "project_id": "vocabularyforkid",
+    "storage_bucket": "vocabularyforkid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558876355654:android:843e88827a168458d86e47",
+        "android_client_info": {
+          "package_name": "com.example.eforkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558876355654-nl2norrnkj1ngefecrnn1flbc148rjbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eforkids",
+            "certificate_hash": "03f771fb822b02f4fc24aff7d086411f1975eee0"
+          }
+        },
+        {
+          "client_id": "558876355654-eismjs4ea2slujdba7s5rml8ie2247oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm6M-xcQCMgYWXRGboyh0MPvw2VP59vyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558876355654-eismjs4ea2slujdba7s5rml8ie2247oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

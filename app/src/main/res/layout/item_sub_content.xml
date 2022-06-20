@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="75dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="15dp"
+    android:layout_margin="5dp">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/iv_sub_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/animals"
+            android:scaleType="centerCrop"/>
+
+        <ImageView
+            android:id="@+id/iv_tick"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/ic_tick"/>
+
+
+    </FrameLayout>
+
+
+</androidx.cardview.widget.CardView>
